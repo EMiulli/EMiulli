@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EMiulli
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on Java projects.
+- 💙 I’m interested in software development.
+- ☕ I’m currently learning Java.
+- 👀 I’m looking to collaborate on Java projects.
 
 
 <!---
