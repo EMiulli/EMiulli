@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EricMiulli
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML/CSS/JavaScript
-- 💞️ I’m looking to collaborate on web projects
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Java projects
 
 
 <!---
