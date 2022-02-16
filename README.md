@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EMiulli
-- 💙 I’m interested in software development.
-- ☕ I’m currently learning Blazor.
-- 👀 I’m looking to collaborate on .NET projects.
+- 💙 I’m interested in front end web development.
+- ☕ I’m currently learning HTML5, CSS & JavaScript.
+- 👀 I’m looking to collaborate on web projects.
 
 
 <!---
