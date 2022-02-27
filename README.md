@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EMiulli
 - 💙 I’m interested in front end web development.
-- ☕ I’m currently learning HTML5, CSS & JavaScript.
+- ☕ I’m currently learning Python.
 - 👀 I’m looking to collaborate on web projects.
 
 
