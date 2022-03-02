@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EMiulli
 - 💙 I’m interested in software development.
-- ☕ I’m currently learning Python.
+- 👨‍🎓 I’m currently learning Python.
 - 👀 I’m looking to collaborate on software projects.
 
 
