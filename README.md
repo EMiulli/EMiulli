@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EMiulli
 - 💙 I’m interested in technology.
-- 👨‍🎓 I’m currently learning Python.
+- 👨‍🎓 I’m currently learning C#.
 - 👀 I’m looking to collaborate on IT and software engineering projects.
 
 
